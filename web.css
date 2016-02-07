@@ -1,570 +1,570 @@
 body {
-background-color: #222;
-background-image: url(img/bg.gif);
-background-position: 750px;
-background-repeat: no-repeat;
-color: #fff;
-font-family: "century gothic", arial, helvetica, sans-serif;
-font-size: 22px;
-font-style: normal;
-font-variant: normal; 
-font-weight: normal;
-letter-spacing: 0.0em;
-line-height: 22px;
-text-align: right;
-text-decoration: none;
-word-spacing: 0.0em;
+  background-color: #222;
+  background-image: url(img/bg.gif);
+  background-position: 750px;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-family: "century gothic", arial, helvetica, sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0.0em;
+  line-height: 22px;
+  text-align: right;
+  text-decoration: none;
+  word-spacing: 0.0em;
 }
 img {
-border: 0px;
+  border: 0px;
 }
 a {
-color: #666;
-outline: none;
-text-decoration: none;
+  color: #666;
+  outline: none;
+  text-decoration: none;
 }
 a:hover, a:active, a:focus {
-color: #fff;
-outline: none;
-text-decoration: none;
+  color: #fff;
+  outline: none;
+  text-decoration: none;
 }
 h1 {
-color: #fff;
-font-size: 27px;
-font-weight: normal;
-line-height: 14px;
+  color: #fff;
+  font-size: 27px;
+  font-weight: normal;
+  line-height: 14px;
 }
 h2 {
-color: #fff;
-font-size: 22px;
-font-weight: normal;
-line-height: 11px;
+  color: #fff;
+  font-size: 22px;
+  font-weight: normal;
+  line-height: 11px;
 }
 h3 {
-color: #aaa;
-font-size: 18px;
-font-weight: bold;
-line-height: 9px;
+  color: #aaa;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 9px;
 }
 h4 {
-color: #aaa;
-font-size: 14px;
-font-style: italic;
-font-weight: normal;
-line-height: 7px;
+  color: #aaa;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: normal;
+  line-height: 7px;
 }
 p {
-color: #ddd;
-font-size: 14px;
-font-style: normal;
-font-weight: normal;
-line-height: 14px;
-letter-spacing: 0.0em;
-padding-top: 0px;
-text-align: justify;
-word-spacing: 0.0em;
+  color: #ddd;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 14px;
+  letter-spacing: 0.0em;
+  padding-top: 0px;
+  text-align: justify;
+  word-spacing: 0.0em;
 }
 #container {
-float: left;
-height: 400px;
-margin: 0;
-width: 700px;
+  float: left;
+  height: 400px;
+  margin: 0;
+  width: 700px;
 }
 #leftwrap {
-clear: left;
-color: #fff;
-float: left;
-font-size: 22px;
-font-style: normal;
-font-variant: normal; 
-font-weight: normal;
-height: 358px;
-letter-spacing: 0.0em;
-line-height: 24px;
-margin: 0;
-text-align: center;
-text-decoration: none;
-width: 200px;
-word-spacing: 0.0em;
+  clear: left;
+  color: #fff;
+  float: left;
+  font-size: 22px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: 358px;
+  letter-spacing: 0.0em;
+  line-height: 24px;
+  margin: 0;
+  text-align: center;
+  text-decoration: none;
+  width: 200px;
+  word-spacing: 0.0em;
 }
 #content {
-float: right;
-clear: right;
-width: 500px;
-height: 400px;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 400px;
+  margin: 0;
 }
 #contentaboutus {
-float: right;
-clear: right;
-width: 500px;
-height: 400px;
-text-align: justify;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 400px;
+  text-align: justify;
+  margin: 0;
 }
 #contentlatestnews {
-float: right;
-clear: right;
-width: 500px;
-height: 400px;
-text-align: justify;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 400px;
+  text-align: justify;
+  margin: 0;
 }
 #contentsupport {
-float: right;
-clear: right;
-width: 500px;
-height: 400px;
-text-align: justify;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 400px;
+  text-align: justify;
+  margin: 0;
 }
 #contentsupportinfo {
-float: right;
-clear: right;
-width: 500px;
-height: 600px;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 600px;
+  margin: 0;
 }
 #contentmonthlysupport {
-float: right;
-clear: right;
-width: 500px;
-height: 400px;
-text-align: center;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  margin: 0;
 }
 #rightwrap {
-float: right;
-clear: right;
-color: #fff;
-letter-spacing: 0.0em;
-line-height: 100px;
-font-size: 100px;
-font-style: normal;
-font-variant: normal; 
-font-weight: bold;
-text-align: right;
-text-decoration: none;
-word-spacing: 0.0em;
-width: 500px;
-height: 400px;
-margin: 0;
+  float: right;
+  clear: right;
+  color: #fff;
+  letter-spacing: 0.0em;
+  line-height: 100px;
+  font-size: 100px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+  text-align: right;
+  text-decoration: none;
+  word-spacing: 0.0em;
+  width: 500px;
+  height: 400px;
+  margin: 0;
 }
 #donationleft {
-float: left;
-clear: left;
-width: 250px;
-height: 80px;
-margin: 0;
+  float: left;
+  clear: left;
+  width: 250px;
+  height: 80px;
+  margin: 0;
 }
 #donationright {
-float: right;
-clear: right;
-width: 250px;
-height: 80px;
-margin: 0;
+  float: right;
+  clear: right;
+  width: 250px;
+  height: 80px;
+  margin: 0;
 }
 #nav8 {
-background: transparent url(img/bgsidebar8.gif) no-repeat;
-background-position: 0px;
-border: 0px;
-height: 26px;
-margin: 0;
-width: 200px;
+  background: transparent url(img/bgsidebar8.gif) no-repeat;
+  background-position: 0px;
+  border: 0px;
+  height: 26px;
+  margin: 0;
+  width: 200px;
 }
 #nav8ob {
-border: 0px;
-height: 26px;
-margin: 0;
-width: 270px;
+  border: 0px;
+  height: 26px;
+  margin: 0;
+  width: 270px;
 }
 #time {
-float: right;
-clear: right;
-display: block;
-background: transparent url(img/time.gif) no-repeat;
-background-position: 0px;
-border: 0px;
-height: 100px;
-margin: 0;
-width: 500px;
+  float: right;
+  clear: right;
+  display: block;
+  background: transparent url(img/time.gif) no-repeat;
+  background-position: 0px;
+  border: 0px;
+  height: 100px;
+  margin: 0;
+  width: 500px;
 }
 #timeob {
-border: 0px;
-height: 100px;
-margin: 0;
-width: 500px;
+  border: 0px;
+  height: 100px;
+  margin: 0;
+  width: 500px;
 }
 #tweetbtn {
-line-height: 14px;
-font-weight: normal;
-font-style: normal;
-font-size: 14px;
-color: #ddd;
-letter-spacing: 0.0em;
-word-spacing: 0.0em;
-text-align: right;
-padding-top: 0px;
+  line-height: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  color: #ddd;
+  letter-spacing: 0.0em;
+  word-spacing: 0.0em;
+  text-align: right;
+  padding-top: 0px;
 }
 .note {
-line-height: 12px;
-font-size: 12px;
-color: #666;
+  line-height: 12px;
+  font-size: 12px;
+  color: #666;
 }
 .big {
-line-height: 22px;
-font-weight: normal;
-color: #fff;
-font-size: 22px;
+  line-height: 22px;
+  font-weight: normal;
+  color: #fff;
+  font-size: 22px;
 }
 .small {
-line-height: 12px;
-font-size: 12px;
+  line-height: 12px;
+  font-size: 12px;
 }
 .block {
-line-height: 13px;
-font-size: 13px;
-color: #fff;
+  line-height: 13px;
+  font-size: 13px;
+  color: #fff;
 }
 .body {
-color: #fff;
-font-family: "century gothic", arial, helvetica, sans-serif;
-font-size: 22px;
-font-style: normal;
-font-variant: normal; 
-font-weight: normal;
-letter-spacing: 0.0em;
-line-height: 22px;
-text-align: center;
-text-decoration: none;
-word-spacing: 0.0em;
+  color: #fff;
+  font-family: "century gothic", arial, helvetica, sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  letter-spacing: 0.0em;
+  line-height: 22px;
+  text-align: center;
+  text-decoration: none;
+  word-spacing: 0.0em;
 }
 .floatleft {
-float: left;
-margin: 0px 4px 0px 0px;
+  float: left;
+  margin: 0px 4px 0px 0px;
 }
 .floatright {
-float: right;
-margin: 0px 0px 0px 4px;
+  float: right;
+  margin: 0px 0px 0px 4px;
 }
 .rightp {
-line-height: 14px;
-font-weight: normal;
-font-style: normal;
-font-size: 14px;
-color: #eee;
-letter-spacing: 0.0em;
-word-spacing: 0.0em;
-text-align: right;
-padding-top: 0px;
+  line-height: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  color: #eee;
+  letter-spacing: 0.0em;
+  word-spacing: 0.0em;
+  text-align: right;
+  padding-top: 0px;
 }
 .leftp {
-line-height: 14px;
-font-weight: normal;
-font-style: normal;
-font-size: 14px;
-color: #eee;
-letter-spacing: 0.0em;
-word-spacing: 0.0em;
-text-align:left;
-padding-top: 0px;
+  line-height: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  color: #eee;
+  letter-spacing: 0.0em;
+  word-spacing: 0.0em;
+  text-align: left;
+  padding-top: 0px;
 }
 .nav1 {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav1.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav1.gif) no-repeat;
+  background-position: 0px;
 }
 .nav2a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav2a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav2a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav2 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav2.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav2.gif) no-repeat;
+  background-position: 0px;
 }
 .nav2 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav3a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav3a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav3a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav3 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav3.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav3.gif) no-repeat;
+  background-position: 0px;
 }
 .nav3 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav4a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav4a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav4a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav4 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav4.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav4.gif) no-repeat;
+  background-position: 0px;
 }
 .nav4 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav5a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav5a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav5a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav5 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav5.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav5.gif) no-repeat;
+  background-position: 0px;
 }
 .nav5 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav6a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav6a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav6a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav6 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav6.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav6.gif) no-repeat;
+  background-position: 0px;
 }
 .nav6 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav7a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav7a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav7a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav7 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav7.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav7.gif) no-repeat;
+  background-position: 0px;
 }
 .nav7 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .nav8a a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav8a.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav8a.gif) no-repeat;
+  background-position: 0px;
 }
 .nav8 a {
-display: block;
-width: 200px;
-height: 26px;
-background: transparent url(img/nav8.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 200px;
+  height: 26px;
+  background: transparent url(img/nav8.gif) no-repeat;
+  background-position: 0px;
 }
 .nav8 a:hover, a:active, a:focus {
-background-position: -200px 0;
+  background-position: -200px 0;
 }
 .iframel {
-position: fixed;
-left: 200px;
-top: 0px;
-width: 500px;
-height: 600px;
-border-style: none;
+  position: fixed;
+  left: 200px;
+  top: 0px;
+  width: 500px;
+  height: 600px;
+  border-style: none;
 }
 .iframer {
-position: fixed;
-left: 700px;
-top: 0px;
-width: 500px;
-height: 600px;
-border-style: none;
+  position: fixed;
+  left: 700px;
+  top: 0px;
+  width: 500px;
+  height: 600px;
+  border-style: none;
 }
 .shawnmichael a {
-display: block;
-width: 500px;
-height: 200px;
-background: transparent url(img/shawnmichael.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 200px;
+  background: transparent url(img/shawnmichael.gif) no-repeat;
+  background-position: 0px;
 }
 .shawnmichael a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .saraholivia a {
-display: block;
-width: 500px;
-height: 200px;
-background: transparent url(img/saraholivia.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 200px;
+  background: transparent url(img/saraholivia.gif) no-repeat;
+  background-position: 0px;
 }
 .saraholivia a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .hdr img {
-display: block;
-width: 500px;
-height: 300px;
-background: transparent url() no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 300px;
+  background: transparent url() no-repeat;
+  background-position: 0px;
 }
 .aboutus a {
-display: block;
-width: 500px;
-height: 100px;
-background: transparent url(img/aboutus.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 100px;
+  background: transparent url(img/aboutus.gif) no-repeat;
+  background-position: 0px;
 }
 .aboutus a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .updates a {
-display: block;
-width: 500px;
-height: 100px;
-background: transparent url(img/updates.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 100px;
+  background: transparent url(img/updates.gif) no-repeat;
+  background-position: 0px;
 }
 .updates a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .videos a {
-display: block;
-width: 500px;
-height: 100px;
-background: transparent url(img/videos.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 100px;
+  background: transparent url(img/videos.gif) no-repeat;
+  background-position: 0px;
 }
 .videos a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .support a {
-display: block;
-width: 500px;
-height: 100px;
-background: transparent url(img/support.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 100px;
+  background: transparent url(img/support.gif) no-repeat;
+  background-position: 0px;
 }
 .support a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .contact a {
-display: block;
-width: 500px;
-height: 100px;
-background: transparent url(img/contact.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 100px;
+  background: transparent url(img/contact.gif) no-repeat;
+  background-position: 0px;
 }
 .contact a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .latestnews a {
-display: block;
-width: 500px;
-height: 200px;
-background: transparent url(img/latestnews.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 200px;
+  background: transparent url(img/latestnews.gif) no-repeat;
+  background-position: 0px;
 }
 .latestnews a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .ancienthistory a {
-display: block;
-width: 500px;
-height: 200px;
-background: transparent url(img/ancienthistory.gif) no-repeat;
-background-position: 0px;
+  display: block;
+  width: 500px;
+  height: 200px;
+  background: transparent url(img/ancienthistory.gif) no-repeat;
+  background-position: 0px;
 }
 .ancienthistory a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 .time a {
-float: right;
-clear: right;
-display: block;
-background: transparent url(img/time.gif) no-repeat;
-background-position: 0px;
-border: 0px;
-height: 100px;
-margin: 0;
-width: 500px;
+  float: right;
+  clear: right;
+  display: block;
+  background: transparent url(img/time.gif) no-repeat;
+  background-position: 0px;
+  border: 0px;
+  height: 100px;
+  margin: 0;
+  width: 500px;
 }
 .timeob {
-border: 0px;
-height: 50px;
-margin: 43px 0px;
-width: 500px;
+  border: 0px;
+  height: 50px;
+  margin: 43px 0px;
+  width: 500px;
 }
 .time a:hover, a:active, a:focus {
-background-position: -500px 0;
+  background-position: -500px 0;
 }
 a.static {
-color: #fff;
+  color: #fff;
 }
 a.static:hover, a:active, a:focus {
-color: #fff;
+  color: #fff;
 }
 a.side {
-color: #fff;
+  color: #fff;
 }
 a.side:hover, a:active, a:focus {
-color: #666;
+  color: #666;
 }
 .p a {
-line-height: 13px;
-font-size: 13px;
-font-style: normal;
-font-weight: normal;
-line-height: 13px;
-letter-spacing: 0.0em;
-padding-top: 0px;
-text-align: justify;
-word-spacing: 0.0em;
-color: #666;
-outline: none;
-text-decoration: none;
+  line-height: 13px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 13px;
+  letter-spacing: 0.0em;
+  padding-top: 0px;
+  text-align: justify;
+  word-spacing: 0.0em;
+  color: #666;
+  outline: none;
+  text-decoration: none;
 }
 .p a:hover, a:active, a:focus {
-line-height: 13px;
-font-size: 13px;
-font-style: normal;
-font-weight: normal;
-line-height: 13px;
-letter-spacing: 0.0em;
-padding-top: 0px;
-text-align: justify;
-word-spacing: 0.0em;
-color: #fff;
-outline: none;
-text-decoration: none;
+  line-height: 13px;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 13px;
+  letter-spacing: 0.0em;
+  padding-top: 0px;
+  text-align: justify;
+  word-spacing: 0.0em;
+  color: #fff;
+  outline: none;
+  text-decoration: none;
 }
