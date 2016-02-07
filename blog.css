@@ -1,0 +1,335 @@
+#posts { width: 500px; margin: 0px 44px 0px 44px; padding-left: 0px;}
+div.sidebar { margin-top: 50px; float: right; width: 100px; }
+div.postunit { position: relative; }
+div.post { padding-top: 24px; }
+div.editbox { visibility: hidden; height: 16px; position: absolute; top: 0px; }
+div.postunit:hover div.editbox { visibility: visible; }
+div.overall_content { width: 600px; }
+
+body {
+background-color: #222;
+background-image: url(img/bg.gif);
+background-position: 750px;
+background-repeat: no-repeat;
+color: #ddd;
+font-family: "century gothic", Arial, Helvetica, sans-serif; 
+font-size: 14px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: normal;
+letter-spacing: 0.0em;  
+line-height: 14px; 
+padding-top: 0px; 
+text-align: justify; 
+text-decoration: none;
+word-spacing: 0.0em; 
+}
+img {
+border: 0px;
+}
+a {
+color: #666;
+outline: none;
+text-decoration: none;
+}
+a:hover, a:active, a:focus {
+color: #fff;
+outline: none;
+text-decoration: none;
+}
+h1 {
+color: #fff;
+font-size: 27px;
+font-weight: normal;
+line-height: 14px;
+}
+h2 {
+color: #fff;
+font-size: 22px;
+font-weight: normal;
+line-height: 11px;
+}
+h3 {
+color: #aaa;
+font-size: 18px;
+font-weight: bold;
+line-height: 9px;
+}
+h4 {
+color: #aaa;
+font-size: 14px;
+font-style: italic;
+font-weight: normal;
+line-height: 7px;
+}
+p {
+color: #ddd;
+font-size: 14px;
+font-style: normal;
+font-weight: normal;
+line-height: 14px;
+letter-spacing: 0.0em;
+padding-top: 0px;
+text-align: justify;
+word-spacing: 0.0em;
+}
+#container {
+float: left;
+height: 400px;
+margin: 0;
+width: 700px;
+}
+#leftwrap {
+clear: left;
+color: #fff;
+float: left;
+font-size: 22px;
+font-style: normal;
+font-variant: normal; 
+font-weight: normal;
+height: 358px;
+letter-spacing: 0.0em;
+line-height: 24px;
+margin: 0;
+text-align: center;
+text-decoration: none;
+width: 200px;
+word-spacing: 0.0em;
+}
+#contentlatestnews {
+float: right;
+clear: right;
+width: 500px;
+height: 400px;
+text-align: justify;
+margin: 0;
+}
+.note {
+line-height: 12px;
+font-size: 12px;
+color: #666;
+}
+.big {
+line-height: 22px;
+font-weight: normal;
+color: #fff;
+font-size: 22px;
+}
+.small {
+line-height: 12px;
+font-size: 12px;
+}
+.block {
+line-height: 13px;
+font-size: 13px;
+color: #fff;
+}
+.body {
+color: #fff;
+font-family: "century gothic", arial, helvetica, sans-serif;
+font-size: 22px;
+font-style: normal;
+font-variant: normal; 
+font-weight: normal;
+letter-spacing: 0.0em;
+line-height: 22px;
+text-align: center;
+text-decoration: none;
+word-spacing: 0.0em;
+}
+.floatleft {
+float: left;
+margin: 0px 4px 0px 0px;
+}
+.floatright {
+float: right;
+margin: 0px 0px 0px 4px;
+}
+.rightp {
+line-height: 14px;
+font-weight: normal;
+font-style: normal;
+font-size: 14px;
+color: #ddd;
+letter-spacing: 0.0em;
+word-spacing: 0.0em;
+text-align: right;
+padding-top: 0px;
+}
+.leftp {
+line-height: 14px;
+font-weight: normal;
+font-style: normal;
+font-size: 14px;
+color: #eee;
+letter-spacing: 0.0em;
+word-spacing: 0.0em;
+text-align:left;
+padding-top: 0px;
+}
+.nav1 {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav1.gif) no-repeat;
+background-position: 0px;
+}
+.nav2a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav2a.gif) no-repeat;
+background-position: 0px;
+}
+.nav2 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav2.gif) no-repeat;
+background-position: 0px;
+}
+.nav2 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav3a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav3a.gif) no-repeat;
+background-position: 0px;
+}
+.nav3 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav3.gif) no-repeat;
+background-position: 0px;
+}
+.nav3 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav4a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav4a.gif) no-repeat;
+background-position: 0px;
+}
+.nav4 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav4.gif) no-repeat;
+background-position: 0px;
+}
+.nav4 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav5a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav5a.gif) no-repeat;
+background-position: 0px;
+}
+.nav5 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav5.gif) no-repeat;
+background-position: 0px;
+}
+.nav5 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav6a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav6a.gif) no-repeat;
+background-position: 0px;
+}
+.nav6 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav6.gif) no-repeat;
+background-position: 0px;
+}
+.nav6 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav7a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav7a.gif) no-repeat;
+background-position: 0px;
+}
+.nav7 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav7.gif) no-repeat;
+background-position: 0px;
+}
+.nav7 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+.nav8a a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav8a.gif) no-repeat;
+background-position: 0px;
+}
+.nav8 a {
+display: block;
+width: 200px;
+height: 26px;
+background: transparent url(img/nav8.gif) no-repeat;
+background-position: 0px;
+}
+.nav8 a:hover, a:active, a:focus {
+background-position: -200px 0;
+}
+a.static {
+color: #fff;
+}
+a.static:hover, a:active, a:focus {
+color: #fff;
+}
+a.side {
+color: #fff;
+}
+a.side:hover, a:active, a:focus {
+color: #666;
+}
+.p a {
+line-height: 13px;
+font-size: 13px;
+font-style: normal;
+font-weight: normal;
+line-height: 13px;
+letter-spacing: 0.0em;
+padding-top: 0px;
+text-align: justify;
+word-spacing: 0.0em;
+color: #666;
+outline: none;
+text-decoration: none;
+}
+.p a:hover, a:active, a:focus {
+line-height: 13px;
+font-size: 13px;
+font-style: normal;
+font-weight: normal;
+line-height: 13px;
+letter-spacing: 0.0em;
+padding-top: 0px;
+text-align: justify;
+word-spacing: 0.0em;
+color: #fff;
+outline: none;
+text-decoration: none;
+}

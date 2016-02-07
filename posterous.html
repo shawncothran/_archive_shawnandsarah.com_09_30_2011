@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>blog | shawnandsarah.com</title>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <meta name="description" content="Shawn and Sarah Cothran's life in YWAM" />
+        <meta name="keywords" content="Shawn Cothran, Sarah Cothran, YWAM, Youth With A Mission, YWAM Newcastle, YWAM Australia, Newcastle, Australia, Missions, Jesus, Music, Evangelism, Youth Street, Youth, Teams, God, Volunteer, Great Commission" />
+        <meta name="author" content="Shawn Cothran" />
+        <link rel="stylesheet" type="text/css" href="http://shawnandsarah.com/blog.css" />
+        <link rel="icon" href="http://shawnandsarah.com/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="http://shawnandsarah.com/favicon.ico" type="image/x-icon" />
+        <link rel="alternate" type="application/rss+xml" href="{RSS}">
+    </head>
+
+    <body>
+          <div class="overall_content">
+
+            <div id="container">
+
+                <div id="leftwrap">
+                    <div class="nav1"></div>
+                    <div class="nav2"><a href="http://shawnandsarah.com/index.html"></a></div>
+                    <div class="nav3"><a href="http://shawnandsarah.com/aboutus.html"></a></div>
+                    <div class="nav4a"><a href="http://shawnandsarah.com/updates.html"></a></div>
+                    <div class="nav5"><a href="http://shawnandsarah.com/videos.html"></a></div>
+                    <div class="nav7"><a href="http://shawnandsarah.com/contact.html"></a></div>
+                    <a href="http://shawnandsarah.com/blog.html"><img src="http://shawnandsarah.com/img/ashortcut.gif" alt="blog" /></a>
+                </div>
+
+                <div id="contentlatestnews">
+                
+                    <div class="posts">
+                    {block:Posts}
+                    
+                        <div id="postunit_{PostID}" class="postunit">
+                            <div class="post">
+                                
+                                <h2>{DayOfMonthWithZero} {ShortMonth} {Year}</h2>                        
+                                <h3><a href="{Permalink}">{Title}</a></h3>
+                                {Body}
+                                
+                                {block:Comments}
+                                    {block:CommentsList 
+                                    action_id='comment_link_{PostID}' 
+                                    target_element='post_commentarea_{PostID}'}
+                                    
+                                        <div id='post_commentarea_{PostID}'></div>
+                                            <p><a href="#" id='comment_link_{PostID}'>Comments</a> [{CommentCount}]</p>
+                                    {/block:CommentsList}
+                                    
+                                        {block:CommentsShow}
+                                            <a name="comment"></a>
+                                                <div class="spanningheader" style="margin-top: 0px;">
+                                                    <h4>Comments ({CommentCount})</h4>
+                                                </div>
+                                                {CommentCode}
+                                                <div class="posterousAddNewComment">
+                                                    <div class="spanningheader">
+                                                        <h4>Leave a comment...</h4>
+                                                    </div>
+                                                    {NewCommentCode}
+                                                </div>
+                                        {/block:CommentsShow}
+                                        
+                                {/block:Comments}
+                                
+                            </div>
+                        </div>
+                        
+                    {/block:Posts}
+                    </div>
+                    
+                    {block:Pagination/}
+
+                </div>
+
+            </div>
+
+            <script type="text/javascript">
+            var sc_project=5126547; 
+            var sc_invisible=1; 
+            var sc_partition=58; 
+            var sc_click_stat=1; 
+            var sc_security="626f6fd5"; 
+            </script>
+            <script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-12361688-1");
+            pageTracker._trackPageview();
+            } catch(err) {}</script>
+        
+        </div>
+    </body>
+</html>
+​

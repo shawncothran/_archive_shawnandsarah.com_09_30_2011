@@ -1,0 +1,4 @@
+Century Gothic 
+22px 
+hinting - OFF
+antialiasing - ON

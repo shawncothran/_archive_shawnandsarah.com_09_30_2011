@@ -1,0 +1,5 @@
+ffa600 orange HUE 39
+c832ff purple HUE 284
+ff0064 pink HUE 336
+0096ff blue HUE 205
+222222 grey HUE 0

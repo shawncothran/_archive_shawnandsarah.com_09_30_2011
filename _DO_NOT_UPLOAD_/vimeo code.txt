@@ -1,0 +1,7 @@
+<object type="application/x-shockwave-flash" width="400" height="300" data="http://vimeo.com/hubnut/?user_id=user2596587&amp;color=ffa600&amp;background=222222&amp;fullscreen=1&amp;slideshow=1&amp;stream=videos&amp;id=&amp;server=vimeo.com">	
+<param name="quality" value="best" /> 
+<param name="allowfullscreen" value="true" />		
+<param name="allowscriptaccess" value="always" />	
+<param name="scale" value="showAll" /> 
+<param name="movie" value="http://vimeo.com/hubnut/?user_id=user2596587&amp;color=ffa600&amp;background=222222&amp;fullscreen=1&amp;slideshow=1&amp;stream=videos&amp;id=&amp;server=vimeo.com" />
+</object>

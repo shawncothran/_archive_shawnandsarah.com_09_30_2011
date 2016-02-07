@@ -1,0 +1,11 @@
+<div id="contentsupportinfo" class="note">
+
+<object data="pdf/supportinfo.pdf#toolbar=0&amp;navpanes=0&amp;scrollbar=0" type="application/pdf" width="784" height="550">
+	Loading this PDF may take a minute.
+	</object>
+	
+	Click on it, use Arrow Keys, Scroll or click &amp; drag to navigate above.<br />
+	Nothin'? You may need <a class="note" href="http://get.adobe.com/reader/" rel="external">Adobe Reader.</a> IE users may need to "Allow Blocked Content".<br />
+	<a class="note" href="pdf/supportinfo.pdf" rel="external">Click HERE to open seperately or save to your computer.</a>
+
+</div>
